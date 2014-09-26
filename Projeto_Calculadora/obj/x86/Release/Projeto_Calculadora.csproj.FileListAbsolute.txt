@@ -1,0 +1,12 @@
+M:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\bin\Release\Projeto_Calculadora.exe
+M:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\bin\Release\Projeto_Calculadora.pdb
+M:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Release\Projeto_Calculadora.csprojResolveAssemblyReference.cache
+M:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Release\Projeto_Calculadora.formCalculadora.resources
+M:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Release\Projeto_Calculadora.Properties.Resources.resources
+M:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Release\Projeto_Calculadora.csproj.GenerateResource.Cache
+M:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Release\Projeto_Calculadora.exe
+M:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Release\Projeto_Calculadora.pdb
+M:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\bin\Release\Projeto_Calculadora.exe.manifest
+M:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\bin\Release\Projeto_Calculadora.application
+M:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Release\Projeto_Calculadora.exe.manifest
+M:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Release\Projeto_Calculadora.application

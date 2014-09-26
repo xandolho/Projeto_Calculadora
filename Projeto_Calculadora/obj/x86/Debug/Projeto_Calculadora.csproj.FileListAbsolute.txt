@@ -1,0 +1,43 @@
+C:\Users\Alexandre\AppData\Local\Temporary Projects\Projeto_Calculadora\bin\Debug\Projeto_Calculadora.exe
+C:\Users\Alexandre\AppData\Local\Temporary Projects\Projeto_Calculadora\bin\Debug\Projeto_Calculadora.pdb
+C:\Users\Alexandre\AppData\Local\Temporary Projects\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.Properties.Resources.resources
+C:\Users\Alexandre\AppData\Local\Temporary Projects\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.csproj.GenerateResource.Cache
+C:\Users\Alexandre\AppData\Local\Temporary Projects\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.exe
+C:\Users\Alexandre\AppData\Local\Temporary Projects\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.pdb
+C:\Users\Alexandre\AppData\Local\Temporary Projects\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.formCalculadora.resources
+M:\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.exe
+M:\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.pdb
+E:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.exe
+E:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.pdb
+E:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\bin\Debug\Projeto_Calculadora.exe
+E:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\bin\Debug\Projeto_Calculadora.pdb
+E:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.formCalculadora.resources
+E:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.Properties.Resources.resources
+E:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.csproj.GenerateResource.Cache
+E:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.csprojResolveAssemblyReference.cache
+M:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.exe
+M:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.pdb
+M:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\bin\Debug\Projeto_Calculadora.exe
+M:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\bin\Debug\Projeto_Calculadora.pdb
+M:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.csprojResolveAssemblyReference.cache
+M:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.formCalculadora.resources
+M:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.Properties.Resources.resources
+M:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.csproj.GenerateResource.Cache
+M:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\bin\Debug\Projeto_Calculadora.exe.manifest
+M:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\bin\Debug\Projeto_Calculadora.application
+M:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.exe.manifest
+M:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.application
+M:\Projetos VisualStudio\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.formSobre.resources
+C:\Users\Alexandre\Documents\Visual Studio 2010\Projects\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.exe
+C:\Users\Alexandre\Documents\Visual Studio 2010\Projects\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.pdb
+C:\Users\Alexandre\Documents\Visual Studio 2010\Projects\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Documents\Visual Studio 2010\Projects\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.formCalculadora.resources
+C:\Users\Alexandre\Documents\Visual Studio 2010\Projects\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.formSobre.resources
+C:\Users\Alexandre\Documents\Visual Studio 2010\Projects\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.Properties.Resources.resources
+C:\Users\Alexandre\Documents\Visual Studio 2010\Projects\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.csproj.GenerateResource.Cache
+C:\Users\Alexandre\Documents\Visual Studio 2010\Projects\Projeto_Calculadora\Projeto_Calculadora\bin\Debug\Projeto_Calculadora.exe.manifest
+C:\Users\Alexandre\Documents\Visual Studio 2010\Projects\Projeto_Calculadora\Projeto_Calculadora\bin\Debug\Projeto_Calculadora.application
+C:\Users\Alexandre\Documents\Visual Studio 2010\Projects\Projeto_Calculadora\Projeto_Calculadora\bin\Debug\Projeto_Calculadora.exe
+C:\Users\Alexandre\Documents\Visual Studio 2010\Projects\Projeto_Calculadora\Projeto_Calculadora\bin\Debug\Projeto_Calculadora.pdb
+C:\Users\Alexandre\Documents\Visual Studio 2010\Projects\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.exe.manifest
+C:\Users\Alexandre\Documents\Visual Studio 2010\Projects\Projeto_Calculadora\Projeto_Calculadora\obj\x86\Debug\Projeto_Calculadora.application
